@@ -1,0 +1,14 @@
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\MiCalculadora\obj\Debug\MiCalculadora.pdb
