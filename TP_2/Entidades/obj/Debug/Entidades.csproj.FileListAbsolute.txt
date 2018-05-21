@@ -17,3 +17,8 @@ C:\Users\Reaxter\Desktop\TP-022\Entidades\bin\Debug\Entidades.dll
 C:\Users\Reaxter\Desktop\TP-022\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Reaxter\Desktop\TP-022\Entidades\obj\Debug\Entidades.dll
 C:\Users\Reaxter\Desktop\TP-022\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\TP_2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\TP_2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\TP_2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Reaxter\Desktop\TP_2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\TP_2\Entidades\obj\Debug\Entidades.pdb

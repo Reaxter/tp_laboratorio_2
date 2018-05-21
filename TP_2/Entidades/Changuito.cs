@@ -36,7 +36,7 @@ namespace Entidades_2017
         /// <returns></returns>
         public override string ToString()
         {
-            return Changuito.Mostrar(this, ETipo.Todos);
+            return this.Mostrar(this,ETipo.Todos);
         }
         #endregion
 
@@ -49,7 +49,7 @@ namespace Entidades_2017
         /// <param name="c">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns></returns>
-        public static string Mostrar(Changuito c, ETipo tipo) //quitar static
+        public string Mostrar(Changuito c, ETipo tipo) //quitar static
         {
             StringBuilder sb = new StringBuilder();
 
@@ -60,13 +60,22 @@ namespace Entidades_2017
                 switch (tipo)
                 {
                     case ETipo.Snacks:
-                        sb.AppendLine(((Snacks)v).Mostrar());
+                        if (v is Snacks)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     case ETipo.Dulce:
-                        sb.AppendLine(((Dulce)v).Mostrar());
+                        if (v is Dulce)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     case ETipo.Leche:
-                        sb.AppendLine(((Leche)v).Mostrar());
+                        if (v is Leche)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
