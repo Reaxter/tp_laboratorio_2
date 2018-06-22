@@ -1,0 +1,7 @@
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Entidades\obj\Debug\Entidades.pdb

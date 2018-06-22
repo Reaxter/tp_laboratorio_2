@@ -1,0 +1,7 @@
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Test Unitarios\bin\Debug\Test Unitarios.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Test Unitarios\bin\Debug\Test Unitarios.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Test Unitarios\bin\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Test Unitarios\bin\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Test Unitarios\obj\Debug\Test Unitarios.csprojResolveAssemblyReference.cache
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Test Unitarios\obj\Debug\Test Unitarios.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\Test Unitarios\obj\Debug\Test Unitarios.pdb

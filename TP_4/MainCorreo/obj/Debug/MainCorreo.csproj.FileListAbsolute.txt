@@ -1,0 +1,11 @@
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Reaxter\Desktop\Visual Studio\TP_4\MainCorreo\obj\Debug\MainCorreo.pdb
