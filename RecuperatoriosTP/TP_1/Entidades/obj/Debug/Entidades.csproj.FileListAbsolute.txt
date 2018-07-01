@@ -1,0 +1,10 @@
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\Entidades\bin\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\Entidades\obj\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\Trabajo Practico 01\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Reaxter\Desktop\Visual Studio\TP_1\Entidades\obj\Debug\Entidades.pdb
